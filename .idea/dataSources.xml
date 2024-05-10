@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="prog2324@prog10-dam-davinci-9651.7tc.aws-eu-central-1.cockroachlabs.cloud" uuid="e55bed2f-9e72-4d9a-9a48-5cac8e8553d0">
+      <driver-ref>cockroach</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prog10-dam-davinci-9651.7tc.aws-eu-central-1.cockroachlabs.cloud:26257/prog2324</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
